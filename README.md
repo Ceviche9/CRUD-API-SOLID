@@ -12,3 +12,8 @@ This project was developed using the following technologies:
 - [Mailtrap](https://mailtrap.io/)
 - [Nodemailer](https://nodemailer.com/about/)
 
+## How to use
+
+- Clone the repository
+- Run `yarn` to download the dependencies
+- Run `yarn dev` to start the application.
