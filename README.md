@@ -1,4 +1,4 @@
-## 🚀 NodeJS application focused on DDD architecture and SOLID principles using Typescript.
+## 🚀 NodeJS - DDD - SOLID.
 
 This application only has the function of creating a user and sending an email that confirms the creation. 
 The focus of this application is the use of clean architecture with some of the SOLID principles.
